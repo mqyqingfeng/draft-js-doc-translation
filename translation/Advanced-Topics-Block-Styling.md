@@ -2,6 +2,8 @@ Within `Editor`, some block types are given default CSS styles to limit the amou
 of basic configuration required to get engineers up and running with custom
 editors.
 
+在`Editor`中
+
 By defining a `blockStyleFn` prop function for an `Editor`, it is possible
 to specify classes that should be applied to blocks at render time.
 
